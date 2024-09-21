@@ -1,0 +1,26 @@
+body{
+    margin: 0px;
+}
+html{
+    scroll-behavior: smooth;
+}
+.header-nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 30px;
+    background-color: #333;
+    color:aqua;
+}
+.main-head{
+    text-align: center;
+}
+.trends-container{
+    display:flex;
+    justify-content: space-around;
+}
+ul{
+    list-style-type: none;
+    
+    padding: 0px;
+}
